@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+ariadne
+graphql-core
+sqlalchemy
+alembic
+pydantic
+pydantic-settings
+argon2-cffi
+zxcvbn
+python-jose[cryptography]
+python-multipart
+email-validator
+pytest
+httpx
